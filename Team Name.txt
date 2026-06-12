@@ -1,0 +1,11 @@
+Team Name : TEAM_CHECKMATES
+Institute : Noida Institute of Engineering and Technology, Greater Noida
+Team Members :
+1. Shlok Singh (Team Leader ) – AI
+2. Divya Pratap Singh – PCB Designing & Electronics Integration
+3. Arpita Jaiswal – Designer and Researcher
+4. Aayush Gunjan – Electronics Integration
+5. Shashank Acharya – App Developer
+6. Sumesh Sarkar - IoT Integration
+
+GitHub Repository  Link :
