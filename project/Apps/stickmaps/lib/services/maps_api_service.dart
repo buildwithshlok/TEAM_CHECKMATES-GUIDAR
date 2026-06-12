@@ -7,7 +7,7 @@ import '../models/predicted_place.dart';
 import '../models/route_info.dart';
 
 class MapsApiService {
-  static const String apiKey = "YOUR_GOOGLE_MAPS_API_KEY";
+  static const String apiKey = 'YOUR_GOOGLE_MAPS_API_KEY';
 
   // Enhanced place search with location bias and ranking
   Future<List<PredictedPlace>> searchPlacesAdvanced(
