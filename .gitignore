@@ -1,0 +1,11 @@
+.DS_Store
+**/.DS_Store
+*.apk
+project/Apps/stickmaps/build/
+project/Apps/stickmaps/.dart_tool/
+project/Apps/stickmaps/.flutter-plugins-dependencies
+project/Apps/stickmaps/.idea/
+project/Apps/stickmaps/.metadata
+project/Apps/stickmaps/android/.gradle/
+project/Apps/stickmaps/ios/Pods/
+project/Apps/stickmaps/macos/Pods/
