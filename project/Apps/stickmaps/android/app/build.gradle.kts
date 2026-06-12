@@ -21,7 +21,7 @@ android {
     }
 
     defaultConfig {
-        manifestPlaceholders["MAPS_API_KEY"] = "YOUR_GOOGLE_MAPS_API_KEY"
+        manifestPlaceholders["MAPS_API_KEY"] = 'YOUR_GOOGLE_MAPS_API_KEY'
         // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
         applicationId = "com.example.stickmaps"
         // You can update the following values to match your application needs.
